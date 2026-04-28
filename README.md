@@ -21,7 +21,6 @@ A Web UI using Streamlit Ui for users to upload summaries of research papers and
 How to Setup the project:
 python -m venv .venv
 source .venv/Scripts/activate  # Windows
-# or
 source .venv/bin/activate      # macOS/Linux
 
 pip install -r requirements.txt
